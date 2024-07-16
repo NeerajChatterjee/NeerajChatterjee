@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 	<h3>⚙️ GitHub Analytics</h3>
 <p>
   <a href="https://github.com/NeerajChatterjee/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeerajChatterjee&show_icons=true&theme=dracula&count_private=true&card_width=300" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=NeerajChatterjee&show_icons=true&theme=dracula&count_private=true&card_width=300" /> -->
   </a><a href="https://github.com/NeerajChatterjee/" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajChatterjee&theme=cobalt&langs_count=8&layout=compact&card_width=400" />
   </a>
